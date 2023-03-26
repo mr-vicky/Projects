@@ -14,7 +14,7 @@ code [Link](https://github.com/mr-vicky/Restio)
 
 
 <h1 align="center">Students Registration Form</h1>
-<img src = "./bg2">
+<img src = "./bg2.png">
 
 This Registration Form is a simple website, created by using the HTML, CSS and JavaScript...
 
