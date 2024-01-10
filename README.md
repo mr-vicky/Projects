@@ -1,7 +1,21 @@
 # **My Projects**
 ![](https://komarev.com/ghpvc/?username=mr-vicky&color=brightgreen)
 
+<!-- ----------------------------------------- -->
+<h1 align="center">Image Search App</h1>
 
+<img src = "./image_search_app.png">
+
+Image Search App is a simple website which search the images from the entered data input bolck, created by using the HTML, CSS and JavaScript...
+
+Technologies Used - HTML, CSS, JavaScript.
+
+Deployment [Link](https://mr-vicky.github.io/Image-Search-App/) 
+
+code [Link](https://github.com/mr-vicky/Image-Search-App)
+
+
+<!-- ----------------------------------------- -->
 <h1 align="center">Restio</h1>
 
 <img src = "./bg1.png">
@@ -15,7 +29,20 @@ Deployment [Link](https://mr-vicky.github.io/Restio/)
 code [Link](https://github.com/mr-vicky/Restio)
 
 
+<!-- ----------------------------------------- -->
+<h1 align="center">Profiles</h1>
+<img src = "./profiles.png">
 
+This is a simple website where all my and my friends' profiles are listed, created by using HTML and CSS...
+
+Technologies Used - HTML and CSS.
+
+Deployment [Link](https://mr-vicky.github.io/Profiles/) 
+
+code [Link](https://github.com/mr-vicky/Profiles)
+
+
+<!-- ----------------------------------------- -->
 <h1 align="center">Students Registration Form</h1>
 <img src = "./bg2.png">
 
@@ -29,16 +56,7 @@ code [Link](https://github.com/mr-vicky/LGMVIP-Task-2)
 
 
 
-<h1 align="center">Profiles</h1>
-<img src = "./bg3.png">
 
-This is a simple website where all my and my friends' profiles are listed, created by using HTML and CSS...
-
-Technologies Used - HTML and CSS.
-
-Deployment [Link](https://mr-vicky.github.io/Profiles/) 
-
-code [Link](https://github.com/mr-vicky/Profiles)
 
 
 
